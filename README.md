@@ -1,5 +1,7 @@
 # domain-doctor
 
+[![Release](https://img.shields.io/github/v/release/North-web-dev/domain-doctor?sort=semver)](https://github.com/North-web-dev/domain-doctor/releases) [![Go Reference](https://pkg.go.dev/badge/github.com/North-web-dev/domain-doctor.svg)](https://pkg.go.dev/github.com/North-web-dev/domain-doctor) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Go](https://img.shields.io/github/go-mod/go-version/North-web-dev/domain-doctor)
+
 [![ci](https://github.com/North-web-dev/domain-doctor/actions/workflows/ci.yml/badge.svg)](https://github.com/North-web-dev/domain-doctor/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/North-web-dev/domain-doctor.svg)](https://pkg.go.dev/github.com/North-web-dev/domain-doctor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
