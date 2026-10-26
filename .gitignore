@@ -1,0 +1,4 @@
+/domain-doctor
+/dist/
+*.out
+*.test
